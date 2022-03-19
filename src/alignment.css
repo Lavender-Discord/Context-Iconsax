@@ -40,3 +40,7 @@
 #status-picker .item-1OdjEX::before {
 	display: none;
 }
+
+#channel-attach-upload-file::before{
+	content: none;
+}

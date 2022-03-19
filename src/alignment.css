@@ -41,6 +41,6 @@
 	display: none;
 }
 
-#channel-attach-upload-file::before{
+#channel-attach .item-1OdjEX::before{
 	content: none;
 }

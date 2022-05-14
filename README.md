@@ -1,3 +1,5 @@
+# CURRENTLY UNMAINTAINED, WILL BE REWORKED IN LAVENDER V3, JOIN THE SUPPORT SERVER FOR MORE INFO
+
 # IconsaxDiscord
 Adds [iconsax.io](https://iconsax.io) context icons in discord.
 
